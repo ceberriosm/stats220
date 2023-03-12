@@ -1,0 +1,39 @@
+---
+title: "Creating images with R"
+subtitle: "with a little bit of magick"
+author: "Camilo Berrios"
+date: "2023-03-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+```{}
+
+```
+
+## My meme
+Write one sentence that introduces your meme and provides some context for its creation (e.g. what the motivation was and how your meme is new/original)
+
+use markdown to include your meme i.e. use ![link](description)
+
+copy the code chunk below to include the code you used to create your meme (you do not need to add your code to it, this will be done automatically when the Rmd is knitted)
+
+
+
+```{r file='meme.R', eval=FALSE}
+
+```
+
+## My animated GIF
+
+Write one sentence that introduces your animated GIF and provides some context for its creation (e.g. what the motivation was and how your meme is new/original)
+use markdown to include your animated GIF i.e. use ![]()
+copy the code chunk below to include the code you used to create your meme (you do not need to add your code to it, this will be done automatically when the Rmd is knitted)
+
+```{r file='animation.R', eval=FALSE}
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
