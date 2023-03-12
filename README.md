@@ -5,7 +5,7 @@ Here I wrote up a detailed explanation of **how I create**:
 
 * A meme.
 * An animated GIF.
-* A HTML.
+* A HTML site.
 
 2. If you are interested about process, I invite you to have a look!
 
