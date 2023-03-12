@@ -1,7 +1,7 @@
 # stats220
 
 1. This repository is for my *Stats220 Projects*
-Here I wrote up a detailed explanation of **how I create**:
+Here I coded up using **RStudio** the following projects:
 
 * A meme.
 * An animated GIF.
