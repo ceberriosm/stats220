@@ -9,4 +9,4 @@ Here I coded up using **RStudio** the following projects:
 
 2. If you are interested about process, I invite you to have a look!
 
-Website link here
+3. Many of the tool use in this project come from the package on R called magick clink in [https://cran.r-project.org/web/packages/magick/vignettes/intro.html] to see more information.
