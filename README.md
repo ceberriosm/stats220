@@ -3,9 +3,9 @@
 1. This repository is for my *Stats220 Projects*
 Here I coded up using **RStudio** the following projects:
 
-* A meme.
-* An animated GIF.
-* A HTML site.
+  * A meme.
+  * An animated GIF.
+  * A HTML site.
 
 2. If you are interested about process, I invite you to have a look!
 
